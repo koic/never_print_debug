@@ -1,4 +1,4 @@
-# Never Print Debug
+# Never Print Debug [![Build Status](https://travis-ci.org/koic/never_print_debug.svg)](https://travis-ci.org/koic/never_print_debug)
 
 Error happened when run with a print debug code.
 
